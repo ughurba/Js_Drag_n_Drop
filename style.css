@@ -1,0 +1,31 @@
+body{
+  
+    
+}
+.row {
+    display: flex;
+    
+}
+.placeholder {
+    
+}
+.item {
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 100px;
+    background-color: white;
+    padding: 10px; 
+    margin-left: 90px;
+    cursor: pointer;
+}
+
+.start {
+    border-radius: 100%;
+    border: 1px solid black;
+    color: aliceblue;
+    background-color: black;
+    padding: 20px 30px; 
+    margin-left: 100px;
+}
