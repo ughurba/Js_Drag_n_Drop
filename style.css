@@ -6,7 +6,14 @@ body{
     display: flex;
     
 }
+.placeh{
+  
+}
 .placeholder {
+    margin-left: 40px;
+    width: 140px;
+    border: 0px solid rgb(255, 249, 249);
+    
     
 }
 .item {
@@ -17,15 +24,29 @@ body{
     width: 100px;
     background-color: white;
     padding: 10px; 
-    margin-left: 90px;
+    /* margin-left: 90px; */
     cursor: pointer;
 }
 
 .start {
-    border-radius: 100%;
+    width: 140px;
+    border-radius: 20px;
     border: 1px solid black;
     color: aliceblue;
     background-color: black;
-    padding: 20px 30px; 
-    margin-left: 100px;
+    padding: 10px; 
+    text-align: center;
+    margin-left: 25px;
+}
+.hold{
+    border: 1px solid rgb(104, 96, 245);
+}
+/* .none{
+    display: none;
+} */
+.hovered{
+    border-top:3px solid rgb(214, 113, 239);
+    margin-top: 5px;
+    
+    
 }
