@@ -10,13 +10,11 @@ body {}
 .placeholder {
     margin-left: 40px;
     width: 140px;
-    border: 0px solid rgb(255, 249, 249);
+    border: 0 solid rgb(255, 249, 249);
 
 
 }
-body{
-    background-color: rebeccapurple;
-}
+
 
 .item {
     border-radius: 20px;
