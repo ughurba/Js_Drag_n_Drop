@@ -1,21 +1,20 @@
-body{
-  
-    
-}
+body {}
+
 .row {
     display: flex;
-    
+
 }
-.placeh{
-  
-}
+
+.placeh {}
+
 .placeholder {
     margin-left: 40px;
     width: 140px;
     border: 0px solid rgb(255, 249, 249);
-    
-    
+
+
 }
+
 .item {
     border-radius: 20px;
     text-align: center;
@@ -23,7 +22,7 @@ body{
     border: 1px solid black;
     width: 100px;
     background-color: white;
-    padding: 10px; 
+    padding: 10px;
     /* margin-left: 90px; */
     cursor: pointer;
 }
@@ -34,19 +33,21 @@ body{
     border: 1px solid black;
     color: aliceblue;
     background-color: black;
-    padding: 10px; 
+    padding: 10px;
     text-align: center;
     margin-left: 25px;
 }
-.hold{
+
+.hold {
     border: 1px solid rgb(104, 96, 245);
 }
+
 /* .none{
     display: none;
 } */
-.hovered{
-    border-top:3px solid rgb(214, 113, 239);
+.hovered {
+    border-top: 3px solid rgb(214, 113, 239);
     margin-top: 5px;
-    
-    
+
+
 }
